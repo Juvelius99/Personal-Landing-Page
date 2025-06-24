@@ -24,8 +24,9 @@ While styling this page, I practiced:
 - Consider adding a dark mode and basic interactivity (JS later)
 
 ## 🔗 Live Demo
-> [Hosted via GitHub Pages](https://github.com/Juvelius99/...)  
-(Currently static HTML/CSS)
+🌐 [View Page](https://juvelius99.github.io/Personal-Landing-Page/)
+
+📁 [View Repository](https://github.com/Juvelius99/Personal-Landing-Page)
 
 ## 👨‍💻 Author
 **Vladimir Barablin**  
