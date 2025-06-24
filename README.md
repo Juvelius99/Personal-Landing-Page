@@ -1,33 +1,32 @@
-# Personal Landing Page - Vladimir Barablin
+# Personal Landing Page – Vladimir Barablin
 
-## Purpose
-This project is my first personal landing page, created to practice and demonstrate basic HTML structure and to publicly document my journey as an aspiring web developer.  
-The page serves as an introduction to who I am, why I started learning to code, and where I want to go in the future.
+## 📌 Purpose
+A personal landing page created as part of my learning journey.  
+Currently focused on integrating **basic CSS styling and layout techniques** to make the page visually more engaging and responsive.
 
-## Features
-- Semantic HTML structure using headings, sections, lists, links, and paragraphs
-- Personal introduction and learning timeline
-- Transparent reflection on learning motivation and goals
-- Link to my GitHub profile for portfolio visibility
-- Clean and readable HTML, prepared for future CSS styling
+## ✨ Features Implemented
+- Responsive layout base with `max-width`, `margin: auto`, and `text-align`
+- Applied `radial-gradient()` for a dynamic background
+- Styled anchor tags (`a:link`, `:visited`, `:hover`, `:active`, `:focus`)
+- Accessible color contrasts and basic structural clarity
 
-## Learning Outcome
-While building this page, I practiced:
-- Structuring a webpage using semantic HTML elements
-- Writing clean and accessible HTML code
-- Managing content structure and readability
-- Using Git and GitHub to version and publish a project
-- Documenting personal progress in a professional way
+## 🧠 Learning Outcomes
+While styling this page, I practiced:
+- Using different CSS properties and selectors confidently
+- Writing consistent, clean, and structured CSS code
+- Applying accessibility-aware styling choices
+- Documenting and versioning my work in a reproducible way
 
-## Potential Future Improvements
-- Add CSS styling to enhance the visual presentation and layout of the page
-- Implement responsive design for optimal display across devices
-- Continuously update the page to reflect my ongoing learning journey and new skills
-- Potential future addition of accessibility enhancements (ARIA roles, landmarks)
+## 🚀 Potential Future Improvements
+- Further modular styling (reusable class system)
+- Introduce layout systems like Flexbox or Grid
+- Add ARIA roles and semantic regions to improve accessibility
+- Consider adding a dark mode and basic interactivity (JS later)
 
-## Live View / Demo
-Currently hosted on GitHub (static HTML page).
+## 🔗 Live Demo
+> [Hosted via GitHub Pages](https://github.com/Juvelius99/...)  
+(Currently static HTML/CSS)
 
-## Author
+## 👨‍💻 Author
 **Vladimir Barablin**  
-[GitHub Profile](https://github.com/Juvelius99)
+📍 GitHub: [@Juvelius99](https://github.com/Juvelius99)

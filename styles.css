@@ -1,0 +1,61 @@
+body {
+    padding: 10ox;
+    box-sizing: border-box;
+    background:radial-gradient(circle, #1e90ff, #f0f0f0,#ffcc00);
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1 {
+    font-size: 50px;
+}
+h2 {
+    font-size: 25px;
+}
+h1 ,h2{
+    font-family: Georgia, Times, "Times New Roman";
+}
+li {
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+ul {
+    border-radius: 5px;
+    border: dashed black;
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.contact-info {
+    border-radius: 3px;
+    border: solid black;
+    max-width: 170px;
+    margin-left: auto;
+    margin-right: auto;
+    max-height: 90px;
+    padding: 3px 3px 3px 3px;
+}
+a:link {
+  color: #1e90ff;
+}
+
+a:visited {
+  color: #6c63ff;
+}
+
+a:hover {
+  color: #ffcc00;
+}
+
+a:active {
+  color: #ffa500;
+}
+
+a:focus {
+  outline: 2px dashed #1e90ff;
+  color: #1e90ff;
+}
+a {
+    transition: color 0.3s ease;
+}
