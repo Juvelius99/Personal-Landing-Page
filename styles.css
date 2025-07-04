@@ -1,9 +1,16 @@
 body {
     padding: 10ox;
     box-sizing: border-box;
+    background-color: white;
+    color: black;
     background:radial-gradient(circle, #1e90ff, #f0f0f0,#ffcc00);
     text-align: center;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transition: background-color 0.4s ease, color 0.4s easeM
+}
+body.dark {
+  background-color: #222;
+  color: #8a8a8a;
 }
 h1 {
     font-size: 50px;
